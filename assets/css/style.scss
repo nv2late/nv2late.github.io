@@ -1,0 +1,20 @@
+---
+---
+
+/*
+  If the number of TAB files has changed, the following variable is required.
+  And it must be defined before `@import`.
+*/
+$tab-count: {{ site.tabs | size | plus: 1 }}; // plus 1 for home tab
+
+@import "{{ site.theme }}";
+
+/* append your custom style below */
+@font-face {
+  font-family: 'SpoqaHanSansNeo';
+  src: url(/assets/fonts/SpoqaHanSansNeo-Regular.woff) format(woff),
+       url(/assets/fonts/SpoqaHanSansNeo-Regular.woff2) format(woff),
+       url(/assets/fonts/SpoqaHanSansNeo-Regular.ttf);
+  font-weight: normal;
+  font-style: normal;
+}
