@@ -74,9 +74,9 @@ img.preview-img {
     color: var(--link-color);
 
     &:hover {
-      background: #5a8f7b;
+      background: #676ce6;
       color: #fff;
-      border-color: #5a8f7b;
+      border-color: #676ce6;
     }
 
     &.disabled {
@@ -160,19 +160,19 @@ nav[data-toggle=toc] {
   .nav {
     .nav > li > a.active {
       font-weight: 600 !important;
-      color: #5a8f7b !important;
-      border-left: 2px solid #5a8f7b !important;
+      color: #676ce6 !important;
+      border-left: 2px solid #676ce6 !important;
     }
   }
 }
 
 nav[data-toggle="toc"] .nav > li > a:hover {
-  border-left: 1px solid #5a8f7b !important;
+  border-left: 1px solid #676ce6 !important;
 }
 
  nav[data-toggle="toc"] .nav-link.active, nav[data-toggle="toc"] .nav-link.active:focus, nav[data-toggle="toc"] .nav-link.active:hover {
-   color: #5a8f7b !important;
-   border-left: 2px solid #5a8f7b !important;
+   color: #676ce6 !important;
+   border-left: 2px solid #676ce6 !important;
  }
 
 /* --- Related Posts --- */
