@@ -5,8 +5,6 @@ categories: [Blog]
 tags: [blog, chirpytheme, jekeyll]
 ---
 
-
-
 ## 블로그 테마 찾기
 
 티스토리에 TIL을 작성하면서도 깃허브 블로그로 옮기려고 생각만 하던걸 실행해보자고 결정했다.
