@@ -1,5 +1,5 @@
 ---
-title: [iOS] View Controller Programming Guide for iOS - Overview/Design Tips
+title: "[iOS] View Controller Programming Guide for iOS - Overview/Design Tips"
 date: 2022-08-30
 categories: [iOS]
 tags: [study, iOS, 번역, ViewController]
