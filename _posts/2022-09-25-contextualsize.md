@@ -2,7 +2,7 @@
 title: "[iOS] SwipeAction 구현하기"
 date: 2022-09-25
 categories: [Study, iOS, Swift]
-tags: [til]
+tags: [iOS, Swift, Study]
 ---
 
 ## 1. 구현하고자했던 화면
